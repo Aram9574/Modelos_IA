@@ -1,4 +1,4 @@
-ABRIR ARCHIVO .IPYNB PARA VISUALIZAR LOS DATOS
+**ABRIR ARCHIVO .IPYNB PARA VISUALIZAR LOS DATOS**
 
 # 🧠 Clasificación de cáncer de mama con regresión logística
 
@@ -7,4 +7,5 @@ Este proyecto entrena un modelo de regresión logística sobre un dataset clíni
 - Visualización de la distribución y correlación de variables
 - Entrenamiento y evaluación del modelo
 - Matriz de confusión y curva ROC
+
 
